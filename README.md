@@ -3,7 +3,7 @@
  Software Developer
  
 [![Linkedin Badge](https://img.shields.io/badge/-Tiago%20Vieira-00875f?style=flat-square&color=0097B2&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-svieira/)](https://www.linkedin.com/in/tiago-svieira/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tiagosvieira10@gmail.com-00875f?style=flat-square&color=0097B2&logo=Gmail&logoColor=white&link=mailto:tiagosvieira10@gmail.com)](mailto:tiagosvieira10@gmail.com)
 
 Desenvolvedor Full Stack com experiência em linguagens e frameworks, como React, Angular, TypeScript, JavaScript, Next.js, Node, Tailwind CSS, Vite e Styled-components. 
 
